@@ -1,12 +1,9 @@
-# ProjetoMobileNavigation
-App utilizando sistema de navegação Tabs React-Native
-
-![image](https://user-images.githubusercontent.com/106246945/178127970-1eb77605-31b8-46ca-b151-e10cd524c2af.png)
-
-![image](https://user-images.githubusercontent.com/106246945/178128030-bd8fbe79-87bc-4eb8-ad5d-1fd70e45c94d.png)
-
-![image](https://user-images.githubusercontent.com/106246945/178127976-1d266a1b-07d6-4089-886c-18e1e53d9974.png)
-
-
-![image](https://user-images.githubusercontent.com/106246945/178127940-f7fdb030-97e9-4d71-9eda-6edb593b3ae8.png)
 # ProjetoMobileDrawerNavigation
+App utilizando sistema de navegação Drawer React-Native
+
+![Captura de tela 2022-07-10 161033](https://user-images.githubusercontent.com/106246945/178158930-563dcedd-6a84-4a54-bda3-8c6f62a5e4b9.png)
+![Captura de tela 2022-07-10 161049](https://user-images.githubusercontent.com/106246945/178158932-622c3bbd-a163-446b-8e72-714ad17f743c.png)
+![Captura de tela 2022-07-10 161104](https://user-images.githubusercontent.com/106246945/178158933-5b61915a-adcd-4108-9e39-cd330635683e.png)
+![Captura de tela 2022-07-10 161122](https://user-images.githubusercontent.com/106246945/178158936-b17a1ff0-891f-4445-823f-bb5b34771e8d.png)
+
+
