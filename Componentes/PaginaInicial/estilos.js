@@ -22,7 +22,7 @@ const estilos = StyleSheet.create({
   paragrafo: {
     fontSize: 15,
     color: '#F7EC09',
-    textAlign: 'justify',
+    textAlign: 'center',
     margin: 20
   }
 })
