@@ -2,10 +2,9 @@ import { StyleSheet } from 'react-native'
 
 const estilos = StyleSheet.create({
   container: {
-    flex:1,
+    flex: 1,
     backgroundColor: '#000',
-    alignItems: 'center',
- 
+    alignItems: 'center'
   },
   img: {
     width: 250,
@@ -24,7 +23,7 @@ const estilos = StyleSheet.create({
     color: '#F7EC09',
 
     margin: 15,
-    textAlign: 'justify'
+    textAlign: 'center'
   }
 })
 export default estilos
